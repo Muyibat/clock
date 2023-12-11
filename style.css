@@ -140,8 +140,4 @@ transform: rotate(0);
    .analog-clock{
     align-self: center;
    }
-   .digital-clock{
-    width: 200px;
-    margin:1px;
-   }
 }
