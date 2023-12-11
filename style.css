@@ -136,7 +136,6 @@ transform: rotate(0);
     display: grid;
     grid-template-columns: 1fr;
     gap: 30px;
-    overflow: hidden;
    } 
    .analog-clock{
     align-self: center;
