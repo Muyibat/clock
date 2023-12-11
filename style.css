@@ -141,7 +141,5 @@ transform: rotate(0);
    .analog-clock{
     align-self: center;
    }
-   .digital-clock{
-    align-self: auto;
-   }
+   
 }
