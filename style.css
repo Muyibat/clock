@@ -143,6 +143,6 @@ transform: rotate(0);
     align-self: center;
    }
    .digital-clock{
-    margin: auto;
+    align-self: auto;
    }
 }
