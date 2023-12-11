@@ -132,6 +132,9 @@ transform: rotate(0);
 }
 
 @media (max-width: 768px) {
+    body{
+        overflow:hidden;
+    }
    .container{
     display: grid;
     grid-template-columns: 1fr;
